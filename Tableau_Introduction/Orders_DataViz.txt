@@ -1,0 +1,10 @@
+1. Connect to the excel file data_connection_practice.xls (given in google drive)
+2. Rename the data source to "My Orders Date"
+3. Load the orders sheet.
+4. Change the following field names : a. Row to Row ID. b. Global Area to Country
+5. Change the datatype for country field to geographic role of Country/Region.
+6. Organize data into folders (Customer Info, Order Info, Product Info, Shipment Info)
+7. Create Heat Map ( Order Date vs Profit) , you need to rename the title along with some modifications like changing font, font size, alignment, color.
+8. Create Highlight Table using Profit per Order Date, Region and Segment.
+9. Geographic data (State vs Profit)
+10. Create Dual Line chart (Order Date vs Profit , Sales)
